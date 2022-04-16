@@ -12,8 +12,8 @@ I started my adventure with programming in 2021 and since then I have been learn
 |CSS|React|Django|
 |BEM|Redux|Jinja|
 |SASS/SCSS|TypeScript|AWS|
-| |Node.js|Azure|
-| |Next.js| |
+|Git|Node.js|Azure|
+|GitHub|Next.js| |
 
 
 ### About me
