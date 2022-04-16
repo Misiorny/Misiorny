@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-### I'm Chris (Misiorny)  -  candidate of junior developer. 
+My name is Chris (Misiorny)  -  candidate of junior developer. 
 
 I started my adventure with programming in 2021 and since then I have been learning how to do it in accordance with good coding practices.
 
 ### My skills
 
 I know well:
-HTML, CSS, BEM, SASS/SCSS
+- HTML, - CSS, - BEM, - SASS/SCSS
 
 I am still learning:
 JavaScript, React, TypeScript, Node.js, Next.js, Redux
