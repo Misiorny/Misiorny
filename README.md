@@ -6,16 +6,17 @@ I started my adventure with programming in 2021 and since then I have been learn
 
 ### My skills
 
-I know well:
-- HTML, - CSS, - BEM, - SASS/SCSS
+|I know well |I am still learning|I plan to learn|
+|:---:|:---:|:---:|
+|HTML|JavaScript|Python|
+|CSS|React|Django|
+|BEM|Redux|Jinja|
+|SASS/SCSS|TypeScript|AWS|
+| |Node.js|Azure|
+| |Next.js| |
 
-I am still learning:
-JavaScript, React, TypeScript, Node.js, Next.js, Redux
 
-I plan to learn:
-Python, Django, Jinja, cloud development like AWS, Azure.
-
-#### About me
+### About me
 
 I am actively looking to work in IT, despite the fact that I am already retired, because I have always dreamed of programming and making websites.
 
