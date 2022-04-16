@@ -21,8 +21,10 @@ I am happy to take part in projects where I will be able to learn and gain my fi
 
 And dreams must come true.
 
-Travel is my dream come true. I post reports from them on [my blog](https://www.facebook.com/AfrykaDzikaMisiornego), and the effect of my learning is my [first website](https://afrykadzika.pl/).
-Technically terrible, but first self-written.
+Travel is my dream come true.
+I post reports from them on [my blog](https://www.facebook.com/AfrykaDzikaMisiornego), and my [first website](https://afrykadzika.pl/) the very firs effect of my learning.
+
+Technically terrible, but self-written.
 
 [Please visit my repository](https://github.com/Misiorny?tab=repositories).
 
