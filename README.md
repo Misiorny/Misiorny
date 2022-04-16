@@ -1,17 +1,19 @@
 ## Hi there 👋
 
-### I'm Chris (nick Misiorny)  -  candidate of junior developer. 
+### I'm Chris (Misiorny)  -  candidate of junior developer. 
 
 I started my adventure with programming in 2021 and since then I have been learning how to do it in accordance with good coding practices.
 
+### My skills
+
 I know well:
-HTML, CSS, BEM, SASS / SCSS, JavaScript
+HTML, CSS, BEM, SASS/SCSS
 
 I am still learning:
-React, TypeScript, Node.js, Next.js, Redux
+JavaScript, React, TypeScript, Node.js, Next.js, Redux
 
 I plan to learn:
-Python, Django, Jinja, cloud development.
+Python, Django, Jinja, cloud development like AWS, Azure.
 
 #### About me
 
@@ -29,12 +31,4 @@ Technically terrible, but self-written.
 [Please visit my repository](https://github.com/Misiorny?tab=repositories).
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
