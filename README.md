@@ -19,7 +19,7 @@ I started my adventure with programming in 2021 and since then I have been learn
 ### About me
 
 Travel is my dream come true.
-I post reports from them on [my blog](https://www.facebook.com/AfrykaDzikaMisiornego), and my [first website](https://misiorny.github.io/AfrykaDzika/index.html) the very firs effect of my learning.
+I post reports from them on [my blog](https://www.facebook.com/AfrykaDzikaMisiornego), and my [first website](https://misiorny.github.io/AfrykaDzika/index.html) the very first effect of my learning.
 
 Technically terrible, but self-written.
 
