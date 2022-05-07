@@ -10,9 +10,9 @@ I started my adventure with programming in 2021 and since then I have been learn
 |:---:|:---:|:---:|
 |HTML|JavaScript|Python|
 |CSS|React|Django|
-|BEM|Redux|Jinja|
-|SASS/SCSS|TypeScript|AWS|
-|Git|Node.js|Azure|
+|BEM|Redux|AWS|
+|SASS/SCSS|TypeScript||
+|Git|Node.js||
 |GitHub|Next.js| |
 
 
