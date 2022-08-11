@@ -9,7 +9,7 @@ I started my adventure with programming in 2021 and since then I have been learn
 |I know well |I am still learning|I plan to learn|
 |:---:|:---:|:---:|
 |HTML|JavaScript|Python|
-|<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>|<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>|<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>|
+|CSS|React|Django|
 |BEM|Redux|AWS|
 |SASS/SCSS|TypeScript|Vue|
 |Git|Node||
