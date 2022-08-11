@@ -35,9 +35,9 @@ And dreams must come true.
 
 ### Group projects
 
-I just start my first group project with friends from Discord.
+I just start my first group project with friends from Discord.  
 Nothing special but main task is learn working together with Jira and GitHub. 
-We use [Jira](https://nwbb.atlassian.net/jira/core/projects/DEVWA/board) for control workflow. 
+We use [Jira](https://nwbb.atlassian.net/jira/core/projects/DEVWA/board) for control workflow.  
 I hope, links to Jira and GitHub of group project works - I still learning - If not please contact me. 
 
 #### Participants
