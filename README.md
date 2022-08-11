@@ -33,5 +33,18 @@ And dreams must come true.
 
 [Please visit my repository](https://github.com/Misiorny?tab=repositories).
 
+### Group projects
 
+I just start my first group project with friends from Discord.
+Nothing special but main task is learn working together with Jira and GitHub. 
+We use [Jira](https://nwbb.atlassian.net/jira/core/projects/DEVWA/board) for control workflow. 
+I hope, links to Jira and GitHub of group project works - I still learning - If not please contact me. 
+
+#### Participants
+
+- [DevmianS](https://github.com/DevmianS),
+- [Michaljapko](https://github.com/Michaljapko),
+- [mpoweredo](https://github.com/mpoweredo).
+
+Our [Group Repository](https://github.com/Niemowlaki-w-Bordowych-Beretach/Devjobs_web_app) is here. 
 
