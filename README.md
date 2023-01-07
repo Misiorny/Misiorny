@@ -7,13 +7,13 @@ I started my adventure with programming in 2021 and since then I have been learn
 ### My skills
 
 |I know well |I am still learning|
-|:---:|:---:|:---:|
+|:---:|:---:|
 |HTML|JavaScript|
 |CSS|React|
 |BEM|Redux|
 |SASS/SCSS|TypeScript|
-|Git|Node||
-|GitHub|Next| |
+|Git|Node|
+|GitHub|Next|
 
 
 ### About me
