@@ -23,6 +23,18 @@ I post reports from them on [my blog](https://www.facebook.com/AfrykaDzikaMisior
 
 Technically terrible, but self-written.
 
+Another dream is coding/programming. I have been start learning basic of frontend in second half of 2021. 
+When I finished my first course I decided to know more about JavaScript enviroment. For better knowledge and understanding  I pass courses like below: 
+--[MMCSchool](https://mmcschool.pl/),
+--[Szkoła Reacta](https://szkolareacta.pl/).
+
+As support for my skils I made some courses from [Udemy](https://www.udemy.com/).
+
+Now, I'm still learning on course [Nowoczesny Frontend](https://hyperfunctor.com/nextjs-react-graphql-typescript). 
+
+After over one and half years of lerning I know what skills I have to improve. Not like Noob Dev - I will learn all what I will find in Google :) 
+
+
 ### What next ?
 
 I am actively looking to work in IT, despite the fact that I am already retired, because I have always dreamed of programming and making websites.
