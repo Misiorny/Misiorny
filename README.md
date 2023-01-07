@@ -6,12 +6,12 @@ I started my adventure with programming in 2021 and since then I have been learn
 
 ### My skills
 
-|I know well |I am still learning|I plan to learn|
+|I know well |I am still learning|
 |:---:|:---:|:---:|
-|HTML|JavaScript|Python|
-|CSS|React|Django|
-|BEM|Redux|AWS|
-|SASS/SCSS|TypeScript|Vue|
+|HTML|JavaScript|
+|CSS|React|
+|BEM|Redux|
+|SASS/SCSS|TypeScript|
 |Git|Node||
 |GitHub|Next| |
 
