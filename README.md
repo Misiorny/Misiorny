@@ -25,8 +25,8 @@ Technically terrible, but self-written.
 
 Another dream is coding/programming. I have been start learning basic of frontend in second half of 2021. 
 When I finished my first course I decided to know more about JavaScript enviroment. For better knowledge and understanding  I pass courses like below: 
---[MMCSchool](https://mmcschool.pl/),
---[Szkoła Reacta](https://szkolareacta.pl/).
+* [MMCSchool](https://mmcschool.pl/),
+* [Szkoła Reacta](https://szkolareacta.pl/).
 
 As support for my skils I made some courses from [Udemy](https://www.udemy.com/).
 
