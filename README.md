@@ -32,13 +32,12 @@ As support for my skils I made some courses from platform [Udemy](https://www.ud
 
 Now, I'm still learning on course [Nowoczesny Frontend](https://hyperfunctor.com/nextjs-react-graphql-typescript). 
 
-After over one and half years of lerning I know what skills I have to improve. Not like Noob Dev - I will learn all what I will find in Google :). 
+After over one and half years of learning I know what skills I have to know. Not like Noob Dev - I will learning all what I will find in Google :). 
 
 
 ### What next ?
 
-I am actively looking to work in IT, despite the fact that I am already retired, because I have always dreamed of programming and making websites.
-
+I am actively looking to work in IT. 
 I am happy to take part in projects where I will be able to learn and gain my first commercial experience under the watchful eye of an experienced programmer
 
 And dreams must come true.
