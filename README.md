@@ -42,6 +42,14 @@ I am happy to take part in projects where I will be able to learn and gain my fi
 
 And dreams must come true.
 
+### Repositories
+
+My base repo here is only with present projects like learning projects or my first web code. 
+
 [Please visit my repository](https://github.com/Misiorny?tab=repositories).
+
+My ideas of applications I have in my other repositories made under trade mark *misiorny.eu*. If you want to see it - I kindly invite you here.
+
+[misiorny.eu repository](https://github.com/orgs/misiorny-eu/repositories)
 
 
