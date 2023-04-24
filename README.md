@@ -37,7 +37,6 @@ After over one and half years of learning I know what skills I have to know. Not
 
 ### What next ?
 
-I am actively looking to work in IT. 
 I am happy to take part in projects where I will be able to learn and gain my first commercial experience under the watchful eye of an experienced programmer
 
 And dreams must come true.
