@@ -32,6 +32,8 @@ As support for my skils I made some courses from platform [Udemy](https://www.ud
 
 Now, I'm still learning on course [Nowoczesny Frontend](https://hyperfunctor.com/nextjs-react-graphql-typescript). 
 
+For better practice, improve my skills and create awsome different than usually made projects, I just join [Nerdbord](https://www.nerdbord.io)
+
 After over one and half years of learning I know what skills I have to know. Not like Noob Dev - I will learning all what I will find in Google. 
 
 
@@ -47,7 +49,7 @@ My base repo here is only with present projects like learning projects or my fir
 
 [Please visit my repository](https://github.com/Misiorny?tab=repositories).
 
-My ideas of applications I have in my other repositories made under trade mark ***misiorny.eu***. If you want to see it - I kindly invite you here.
+My ideas of applications I will have in my other repositories made under trade mark ***misiorny.eu***. If you want to see it in the future - I kindly invite you here. 
 
 [misiorny.eu repository](https://github.com/orgs/misiorny-eu/repositories)
 
