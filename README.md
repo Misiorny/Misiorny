@@ -32,8 +32,6 @@ As support for my skils I made some courses from platform [Udemy](https://www.ud
 
 Now, I'm still learning on course [Nowoczesny Frontend](https://hyperfunctor.com/nextjs-react-graphql-typescript). 
 
-For better practice, improve my skills and create awsome different than usually made projects, I just join [Nerdbord](https://www.nerdbord.io).
-
 After over one and half years of learning I know what skills I have to know. Not like Noob Dev - I will learning all what I will find in Google. 
 
 
